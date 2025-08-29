@@ -47,7 +47,7 @@ This project is built on a **microservices architecture**, with each service des
 - **Server-Sent Events (SSE):** For real-time notifications
 
 ### Architecture Diagram
-
+![Architecture Diagram](<img width="1536" height="1024" alt="Image" src="https://github.com/user-attachments/assets/0807ee14-a342-4b4d-9f60-6b7d0189bc3e" />)
 
 ---
 
