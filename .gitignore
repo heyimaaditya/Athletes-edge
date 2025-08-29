@@ -1,0 +1,52 @@
+# --- Build Artifacts ---
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.tld
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+.mvn/timing.properties
+.mvn/wrapper/maven-wrapper.jar
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+
+# --- IDEs and Tools ---
+.idea/
+.project
+.classpath
+.settings/
+.vscode/
+*.iml
+*.iws
+
+# --- Operating System Files ---
+.DS_Store
+Thumbs.db
+
+# --- Log Files ---
+*.log
+logs/
+
+# --- Environment Secrets ---
+# YEH SABSE ZAROORI HAI
+.env
+
+# --- Frontend Node Modules ---
+frontend/node_modules/
+frontend/dist/
+frontend/.DS_Store
+frontend/.env.local
+frontend/.env.*.local
+frontend/npm-debug.log*
+frontend/yarn-debug.log*
+frontend/yarn-error.log*
+frontend/pnpm-debug.log*
+
+# --- Local Maven Repository ---
+.repository/
